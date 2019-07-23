@@ -19,8 +19,7 @@ class Queue:
     def len(self):
         return self.size
 
-linkedList = Queue()
-print(f' list: {linkedList.enqueue(15)}')
+
 
 
 
